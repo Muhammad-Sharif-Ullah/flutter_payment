@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib/app/modules/home/views/payment_request_details.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/app/modules/home/views/payment_request_details.dart"
+        }
+    ]
+}
